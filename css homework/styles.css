@@ -1,0 +1,47 @@
+
+body 
+{
+    background-color: #eff3f3;
+}
+.full{
+    flex-wrap: wrap;
+
+    font-size: medium;
+    color: rgb(0, 0, 0);
+font-style: oblique;
+margin: auto;
+    height: 25em;
+    margin: 0; 
+ 
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) }
+
+
+
+
+.myresume{
+    font-style: oblique;
+   
+    background-color:#336699;
+   text-align: center;
+   border-style: double;
+   border-color: aliceblue;
+color:antiquewhite;
+}
+.image{
+    margin-top: 10px;
+    padding-left: 10;
+    padding-right: 10;
+    padding-top: 5;
+}
+ .name{
+    font-style: italic;
+
+ }
+
+
+
+
