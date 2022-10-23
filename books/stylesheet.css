@@ -1,0 +1,116 @@
+.navbar-nav mr-auto
+{
+
+
+
+}
+.row{
+    align-items: center;
+
+}
+#card-book{
+
+    align-items: center;
+padding-inline-start: 0.5rem;
+
+}
+#form-group{
+
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#footer {
+    background-color: rgb(77, 63, 63);
+    font-style: oblique;
+    text-align: center;
+    color: aliceblue;
+    padding: 1rem;
+}
+#hero-section
+{
+    width: auto;
+    height: 70vh;
+    align-items: center;
+    background-image: url("./image/25.jpg");
+    background-position: center;
+
+}
+.card-body{
+align-items: center;
+
+    height: 35vh;
+    width: 40vh;
+
+}
+#card-section{
+    margin-left: 20rem;
+    height: 70vh;
+width: 100vh;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+#part-section{
+
+background-color: rgba(197, 166, 125,0.8);
+
+    text-align: center;
+color:white;
+width: 50vh;
+display: flex;
+justify-content: center;
+font-style: normal;
+height: 40vh;
+flex-direction: column;
+align-items: center;
+
+
+
+}
+ h2 {
+margin-top: 5rem;
+    color: brown;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+padding-top: 3rem;
+
+}
+#card1{
+    background-image: url("./image/book1.jpg") ;
+    background-position: center;
+}
+#card2{
+    background-image: url("./image/book2.jfif") ;
+    background-position: center;
+}
+#card3{
+    background-image: url("./image/book3.jpg") ;
+    background-position: center;
+}#card4{
+    background-image: url("./image/book4.jfif") ;
+    background-position: center;
+    
+}#card5{
+    background-image: url("./image/book5.jfif") ;
+    background-position: center;
+    
+}#card6{
+    background-image: url("./image/book6.jfif") ;
+    background-position: center;
+}
+#card-deck
+{
+margin: 3rem;
+padding: 1rem;
+
+}
+#card-bdy{
+    margin: 3rem;
+    padding: 1rem;
+    
+}
+#section-contact
+{
+    margin-top: 3rem;
+    margin-bottom: 4rem;
+    
+}
