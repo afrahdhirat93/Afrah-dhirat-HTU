@@ -5,7 +5,7 @@
 
 const MinAge = 18;
 const MaxAge = 35;
-let Age;
+let age;
 
 
 
@@ -28,5 +28,4 @@ else if (age >MaxAge){
 else {
     displayMsg(prompt("What is your name ")+ "welcome to the party. ");
 }
-while ( confirm("is there any body else ? ");)
-}
+while ( confirm("is there any body else ? "));
